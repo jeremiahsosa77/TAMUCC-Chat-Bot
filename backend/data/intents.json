@@ -1,0 +1,68 @@
+{
+    "intents": {
+        "academic_info": {
+            "description": "Questions about academic programs, courses, and requirements",
+            "examples": [
+                "What programs are offered in the Computer Science department?",
+                "Tell me about the Engineering program",
+                "What are the requirements for the Business major?"
+            ]
+        },
+        "registration": {
+            "description": "Questions about course registration, deadlines, and processes",
+            "examples": [
+                "When is the registration deadline for fall semester?",
+                "How do I register for classes?",
+                "What's the add/drop deadline?"
+            ]
+        },
+        "financial_aid": {
+            "description": "Questions about financial aid, scholarships, and tuition",
+            "examples": [
+                "How do I apply for financial aid?",
+                "What scholarships are available?",
+                "When is tuition due?"
+            ]
+        },
+        "campus_location": {
+            "description": "Questions about building locations and campus navigation",
+            "examples": [
+                "Where is the library?",
+                "How do I get to the Student Center?",
+                "What building is the Computer Science department in?"
+            ]
+        },
+        "faculty_info": {
+            "description": "Questions about faculty members and their information",
+            "examples": [
+                "Who is the chair of the Computer Science department?",
+                "What are Professor Smith's office hours?",
+                "How can I contact my advisor?"
+            ]
+        },
+        "events": {
+            "description": "Questions about campus events and activities",
+            "examples": [
+                "What events are happening this week?",
+                "When is the career fair?",
+                "Are there any student organization meetings today?"
+            ]
+        },
+        "student_services": {
+            "description": "Questions about student support services",
+            "examples": [
+                "Where is the counseling center?",
+                "How do I schedule a tutoring session?",
+                "What services does the career center offer?"
+            ]
+        },
+        "housing": {
+            "description": "Questions about on-campus housing and residence life",
+            "examples": [
+                "How do I apply for on-campus housing?",
+                "What are the residence hall options?",
+                "When is the housing application deadline?"
+            ]
+        }
+    }
+} 

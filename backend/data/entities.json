@@ -1,0 +1,82 @@
+{
+    "entities": {
+        "buildings": {
+            "description": "Campus buildings and facilities",
+            "examples": [
+                "Library",
+                "Student Center",
+                "Science Building",
+                "Engineering Building",
+                "Business Building",
+                "Fine Arts Center",
+                "Recreation Center",
+                "Dining Hall"
+            ]
+        },
+        "departments": {
+            "description": "Academic departments and programs",
+            "examples": [
+                "Computer Science",
+                "Engineering",
+                "Business",
+                "Biology",
+                "Chemistry",
+                "Mathematics",
+                "Psychology",
+                "Education"
+            ]
+        },
+        "services": {
+            "description": "Student services and support offices",
+            "examples": [
+                "Registrar's Office",
+                "Financial Aid",
+                "Career Center",
+                "Counseling Center",
+                "Health Center",
+                "Tutoring Center",
+                "Writing Center",
+                "IT Help Desk"
+            ]
+        },
+        "events": {
+            "description": "Types of campus events",
+            "examples": [
+                "Career Fair",
+                "Orientation",
+                "Graduation",
+                "Homecoming",
+                "Student Organization Fair",
+                "Academic Advising",
+                "Workshop",
+                "Seminar"
+            ]
+        },
+        "time_periods": {
+            "description": "Academic time periods and deadlines",
+            "examples": [
+                "Fall Semester",
+                "Spring Semester",
+                "Summer Session",
+                "Registration Period",
+                "Add/Drop Period",
+                "Finals Week",
+                "Break",
+                "Holiday"
+            ]
+        },
+        "faculty_roles": {
+            "description": "Faculty positions and roles",
+            "examples": [
+                "Professor",
+                "Associate Professor",
+                "Assistant Professor",
+                "Department Chair",
+                "Advisor",
+                "Instructor",
+                "Lecturer",
+                "Research Professor"
+            ]
+        }
+    }
+} 
