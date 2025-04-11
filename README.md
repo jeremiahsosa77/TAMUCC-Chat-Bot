@@ -46,16 +46,6 @@ tamu-cc-chatbot/
 6. Initialize the database
 7. Start the development server: `uvicorn backend.main:app --reload`
 
-## Environment Variables
-
-Create a `.env` file with the following variables:
-
-```
-DATABASE_URL=postgresql://user:password@localhost:5432/tamu_cc_chatbot
-SECRET_KEY=your-secret-key
-HUGGINGFACE_API_KEY=your-huggingface-api-key
-```
-
 ## Contributing
 
 1. Fork the repository
